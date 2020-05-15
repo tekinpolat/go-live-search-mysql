@@ -1,0 +1,2 @@
+#https://www.golangprograms.com/example-of-golang-crud-using-mysql-from-scratch.html
+#https://blog.gopheracademy.com/advent-2017/using-go-templates/
